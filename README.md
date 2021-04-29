@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhuoqilang
-- 🌱 I’m currently learning foobar2000SDK
+- 🌱 I’m currently learning zql（1979~？）
 - 📫 How to reach me ...zqwolf@163.com
 
 <!---
